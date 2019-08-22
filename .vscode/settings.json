@@ -1,0 +1,4 @@
+{
+  "python.pythonPath": "virenv/bin/python3",
+  "python.globalModuleInstallation": true
+}
