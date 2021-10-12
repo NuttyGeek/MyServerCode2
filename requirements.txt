@@ -25,7 +25,7 @@ mccabe==0.6.1
 network==0.1
 nltk==3.4.4
 numpy==1.17.0
-opencv-python==4.1.0.25
+opencv-python==4.1.1.26
 protobuf==3.9.1
 pylint==2.3.1
 pyparsing==2.4.2
